@@ -25,6 +25,7 @@ int main()
 		case 1:
 			win=0;
 			check=0;
+			printf("hii");
 			printf("press 1 :if you want to play first\n");
 			printf("press 2 if you want to play second");
 printf("\n enter option::");
